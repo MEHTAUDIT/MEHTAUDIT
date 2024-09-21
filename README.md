@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udit Mehta</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/3c85035328f3af659bda61ecf41c68c5a10f74338823e8f552c8826ac2b0bdc5/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f5374384675706c344b384c796c35453947372f67697068792e6769663f6369643d65636630356534377a39783764776f636d76656e7563746a30376c6a37736672687561337871736f6b6c7230636368342665703d76315f676966735f72656c61746564267269643d67697068792e6769662663743d73">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtaudit&label=Profile%20views&color=0e75b6&style=flat" alt="mehtaudit" /> </p>
-
-- 🌱 I’m currently learning **Nodejs,Competitive programmering**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Competitive programmering**
 
@@ -20,8 +16,76 @@
 <a href="https://auth.geeksforgeeks.org/user/uditmehb6xm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="uditmehb6xm" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+## 💻 Tech Stack:
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" title="Java" />
+      <br>Java
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Vite" title="Vite" />
+      <br>Spring-boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" title="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" title="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
+      <br>Express.js
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" title="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" title="C++" />
+      <br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
+      <br>TypeScript
+    </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
+      <br>Postman
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" title="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" title="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="Django" title="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" title="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+  
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtaudit&show_icons=true&locale=en&layout=compact" alt="mehtaudit" /></p>
 
