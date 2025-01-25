@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udit Mehta</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 💬 Ask me about **Competitive programmering**
 
 - 📫 How to reach me **uditmehta100@gmail.com**
